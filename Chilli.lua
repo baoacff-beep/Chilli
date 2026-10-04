@@ -148,7 +148,7 @@ Instance.new("UICorner", getKeyBtn).CornerRadius = UDim.new(0, 6)
 
 getKeyBtn.MouseButton1Click:Connect(function()
     pcall(function()
-        if setclipboard then setclipboard("https://raw.githubusercontent.com/tienkhanh1/spicy/main/Chilli.lua") end
+        if setclipboard then setclipboard("https://link4m.net/aHHtfgcJ") end
     end)
     statusLabel.TextColor3 = Color3.fromRGB(80, 220, 100)
     statusLabel.Text = "Đã Copy Link Get Key!"
